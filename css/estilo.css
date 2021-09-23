@@ -8,8 +8,8 @@ div#main{
 	background-color: #ececec;
 }
 section#conhecimentos{
-	background-color: #ddd;
-	box-shadow: inset 0 0 20px rgba(0, 0, 0, 0.2);
+	background-color: #dedede;
+	box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.2);
 }
 a#back-to-top{
   background-color: #696969;
