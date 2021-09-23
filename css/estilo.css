@@ -1,0 +1,29 @@
+body{
+	margin-top: 56px;
+}
+footer ul li a{
+	font-size: 16pt;
+}
+div#main{
+	background-color: #ececec;
+}
+section#conhecimentos{
+	background-color: #ddd;
+	box-shadow: inset 0 0 20px rgba(0, 0, 0, 0.2);
+}
+a#back-to-top{
+  background-color: #696969;
+  opacity: 0.5;
+  transition: opacity 1s;
+  position: fixed;
+  bottom: 25px;
+  right: 25px;
+  box-shadow: 1px 1px 4px black;
+  color: white;
+  font-size: 14pt;
+  text-decoration: none;
+}
+a#back-to-top:hover{
+  opacity: 1;
+  box-shadow: 1px 1px 5px black;
+}
