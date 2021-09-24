@@ -26,7 +26,7 @@ div.projetos:hover{
   -webkit-transform: scale(1.1);
 }
 a#back-to-top{
-  background-color: #696969;
+  background-color: #0d6efd;
   opacity: 0.5;
   transition: opacity 1s;
   position: fixed;
