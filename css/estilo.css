@@ -21,6 +21,7 @@ div.card-img-top{
 div.projetos{
   margin-bottom: 20px;
   -webkit-transition: all 0.2s ease-in;
+  background-color: #fff;
 }
 div.projetos:hover{
   -webkit-transform: scale(1.1);
