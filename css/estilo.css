@@ -8,11 +8,11 @@ div#main{
 	background-color: #ececec;
 }
 section#conhecimentos{
-	background-color: #dedede;
+	background-image: url("../media/img/wood.png");
 	box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.2);
 }
 section#projetos{
-  background-color: #dedede;
+  background-image: url("../media/img/email-pattern.png");
 }
 div.card-img-top{
   font-size: 36pt;
