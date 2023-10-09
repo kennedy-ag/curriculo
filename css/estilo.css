@@ -24,11 +24,11 @@ div.card-img-top{
 }
 div.projetos{
   margin-bottom: 20px;
-  -webkit-transition: all 0.2s ease-in;
+  transition: all 0.2s ease-in;
   background-color: #fff;
 }
 div.projetos:hover{
-  -webkit-transform: scale(1.1);
+  transform: scale(1.05);
 }
 a#back-to-top{
   background-color: #0dcaf0;
